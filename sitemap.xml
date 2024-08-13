@@ -1,5 +1,3 @@
-xml
-Copier le code
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
    <url>
@@ -8,4 +6,11 @@ Copier le code
       <changefreq>monthly</changefreq>
       <priority>1.0</priority>
    </url>
-   </urlset>
+   <url>
+      <loc>https://iptvlondon.github.io/iptv/about/</loc>
+      <lastmod>2024-08-13</lastmod>
+      <changefreq>yearly</changefreq>
+      <priority>0.8</priority>
+   </url>
+   <!-- Ensure to close each URL tag properly -->
+</urlset>
