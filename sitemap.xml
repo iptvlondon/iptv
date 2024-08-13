@@ -1,9 +1,11 @@
+xml
+Copier le code
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
    <url>
       <loc>https://iptvlondon.github.io/iptv/</loc>
-      <lastmod>2024-08-13</lastmod> <!-- Change this to the date of last modification -->
-      <changefreq>hourly</changefreq>
+      <lastmod>2024-08-13</lastmod>
+      <changefreq>monthly</changefreq>
       <priority>1.0</priority>
    </url>
-   
+   </urlset>
