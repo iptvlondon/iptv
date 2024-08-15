@@ -3,13 +3,13 @@
    <url>
       <loc>https://iptvlondon.github.io/iptv/</loc>
       <lastmod>2024-08-13</lastmod>
-      <changefreq>monthly</changefreq>
+      <changefreq>daily</changefreq>
       <priority>1.0</priority>
    </url>
    <url>
       <loc>https://iptvlondon.github.io/iptv/iptvengland.html</loc>
-      <lastmod>2024-08-13</lastmod>
-      <changefreq>yearly</changefreq>
+      <lastmod>2024-08-16</lastmod>
+      <changefreq>daily</changefreq>
       <priority>0.8</priority>
    </url>
    <!-- Ensure to close each URL tag properly -->
